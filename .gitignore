@@ -1,0 +1,12 @@
+#application folders
+processing/viewer/application.linux32/
+processing/viewer/application.linux64/
+processing/viewer/application.linux-arm64/
+processing/viewer/application.linux-armv6hf/
+processing/viewer/application.windows32/
+processing/viewer/application.windows64/
+
+#data files
+*.csv
+processing/viwer/*.csv
+

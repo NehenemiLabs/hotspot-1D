@@ -1,0 +1,144 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=hotspot-1d-shield
+*Date=15:39:42
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;13.208;-51.5102;0;Bottom;Copper Fill48
+2;;;40.7162;-51.7769;0;Bottom;Copper Fill67
+3;;;54.9656;-1.73888;0;Bottom;Copper Fill29
+4;;;57.8866;-27.1135;0;Bottom;Copper Fill78
+5;;;39.7256;-1.73888;0;Bottom;Copper Fill86
+6;;;11.0617;-40.2707;0;Bottom;Copper Fill51
+7;;;35.6362;-51.7769;0;Bottom;Copper Fill8
+8;;;33.2105;-48.1563;0;Bottom;TXT2
+9;330;THT;35.0211;-43.9584;0;Bottom;R1
+10;;;14.0589;-52.2849;0;Bottom;Copper Fill46
+11;;;48.3616;-36.2194;0;Bottom;Copper Fill94
+12;;;66.4209;-23.7204;0;Bottom;Hole2
+13;;;7.5565;-50.6593;0;Bottom;Copper Fill98
+14;;;43.4721;-3.49148;0;Bottom;Copper Fill105
+15;;5 mm [THT];11.7523;-40.9584;90;Bottom;LED1
+16;;;28.0162;-51.7769;0;Bottom;Copper Fill5
+17;;;20.3962;-51.7769;0;Bottom;Copper Fill59
+18;;;22.9362;-51.7769;0;Bottom;Copper Fill3
+19;;;62.5856;-1.73888;0;Bottom;Copper Fill32
+20;;;29.5656;-1.73888;0;Bottom;Copper Fill21
+21;;;62.5856;-1.73888;0;Bottom;Copper Fill93
+22;;;11.0617;-41.7439;0;Bottom;Copper Fill50
+23;;;14.0589;-50.6593;0;Bottom;Copper Fill47
+24;;;39.0525;-17.1821;0;Bottom;Copper Fill37
+25;;;48.3616;-36.2194;0;Bottom;Copper Fill34
+26;;;7.5565;-52.2849;0;Bottom;Copper Fill97
+27;;;57.4802;-51.7769;0;Bottom;Copper Fill15
+28;;;26.7081;-51.7261;0;Bottom;Copper Fill54
+29;;;52.4256;-1.73888;0;Bottom;Copper Fill89
+30;;;52.4256;-1.73888;0;Bottom;Copper Fill28
+31;;;59.8425;-42.3505;90;Bottom;IMG1
+32;;;20.7616;-9.60138;0;Bottom;TXT3
+33;;;21.0693;-40.2707;0;Bottom;Copper Fill44
+34;;;40.7162;-51.7769;0;Bottom;Copper Fill10
+35;;;49.8602;-51.7769;0;Bottom;Copper Fill69
+36;10k;THT;44.7911;-41.2264;90;Bottom;R4
+37;;;39.7256;-1.73888;0;Bottom;Copper Fill25
+38;;;43.4721;-1.86588;0;Bottom;Copper Fill106
+39;;;32.1056;-1.73888;0;Bottom;Copper Fill83
+40;;;51.1411;-23.7004;0;Bottom;Hole1
+41;;;20.3962;-51.7769;0;Bottom;Copper Fill2
+42;;;47.3202;-51.7769;0;Bottom;Copper Fill68
+43;;;28.0162;-51.7769;0;Bottom;Copper Fill62
+44;;5 mm [THT];21.7523;-40.9584;90;Bottom;LED2
+45;;;35.6616;-39.1785;0;Bottom;Copper Fill18
+46;;to-92-kit;48.8551;-31.7903;180;Bottom;TMP36
+47;;;47.1678;-17.3853;0;Bottom;Copper Fill79
+48;;;50.299;-41.0631;0;Bottom;IMG2
+49;;;7.5565;-50.6593;0;Bottom;Copper Fill40
+50;;;60.0202;-51.7769;0;Bottom;Copper Fill73
+51;;;42.2656;-1.73888;0;Bottom;Copper Fill87
+52;;;54.9402;-51.7769;0;Bottom;Copper Fill71
+53;;;20.32;-40.9946;0;Bottom;Copper Fill45
+54;;;14.0589;-52.2849;0;Bottom;Copper Fill101
+55;;;57.5056;-1.73888;0;Bottom;Copper Fill91
+56;;;39.0525;-17.1821;0;Bottom;Copper Fill96
+57;;;34.6456;-1.73888;0;Bottom;Copper Fill23
+58;;;43.8912;-36.2194;0;Bottom;Copper Fill95
+59;;;25.4762;-51.7769;0;Bottom;Copper Fill61
+60;;;54.9656;-1.73888;0;Bottom;Copper Fill90
+61;;;40.9321;-1.86588;0;Bottom;Copper Fill53
+62;;;60.1218;-5.47268;0;Bottom;Copper Fill81
+63;;;29.5656;-1.73888;0;Bottom;Copper Fill82
+64;;;57.4802;-51.7769;0;Bottom;Copper Fill72
+65;;;53.6321;-9.40968;0;Bottom;Copper Fill107
+66;;;8.382;-51.5102;0;Bottom;Copper Fill42
+67;;;6.7056;-51.5102;0;Bottom;Copper Fill99
+68;;;44.8056;-1.73888;0;Bottom;Copper Fill27
+69;;;32.1302;-37.9756;0;Bottom;Via2
+70;;;19.5791;-6.76419;0;Bottom;TXT4
+71;;;47.5361;-37.0703;0;Bottom;Copper Fill33
+72;;;26.7081;-51.7261;0;Bottom;Copper Fill104
+73;;;46.1772;-35.2669;0;Bottom;Copper Fill77
+74;;;60.0202;-51.7769;0;Bottom;Copper Fill16
+75;;;38.1762;-51.7769;0;Bottom;Copper Fill9
+76;;;34.4932;-26.7579;0;Bottom;Copper Fill1
+77;;;34.5996;-26.7484;0;Bottom;Arduino
+78;;;60.0456;-1.73888;0;Bottom;Copper Fill92
+79;;;47.3202;-51.7769;0;Bottom;Copper Fill11
+80;10k;THT;47.5851;-41.2264;90;Bottom;R3
+81;;;27.2288;-26.7579;0;Bottom;Copper Fill58
+82;;;10.3124;-40.9946;0;Bottom;Copper Fill52
+83;;;53.6321;-9.40968;0;Bottom;Copper Fill57
+84;;;37.1856;-1.73888;0;Bottom;Copper Fill24
+85;;;34.6456;-1.73888;0;Bottom;Copper Fill84
+86;;;37.1856;-1.73888;0;Bottom;Copper Fill85
+87;330;THT;35.0211;-40.4584;0;Bottom;R2
+88;10k;THT;24.7251;-30.5584;0;Bottom;R5
+89;;;52.4002;-51.7769;0;Bottom;Copper Fill13
+90;;;60.0456;-1.73888;0;Bottom;Copper Fill31
+91;;;54.0004;-4.55828;0;Bottom;Copper Fill20
+92;;;62.5602;-51.7769;0;Bottom;Copper Fill74
+93;;;26.7081;-50.1005;0;Bottom;Copper Fill55
+94;;;41.91;-29.4757;0;Bottom;Copper Fill76
+95;;;38.1762;-51.7769;0;Bottom;Copper Fill66
+96;;;44.8056;-1.73888;0;Bottom;Copper Fill88
+97;;;22.9362;-51.7769;0;Bottom;Copper Fill60
+98;;;10.3124;-40.9946;0;Bottom;Copper Fill103
+99;;;54.9402;-51.7769;0;Bottom;Copper Fill14
+100;;;25.4762;-51.7769;0;Bottom;Copper Fill4
+101;;;8.382;-51.5102;0;Bottom;Copper Fill100
+102;;;30.5562;-51.7769;0;Bottom;Copper Fill63
+103;;;57.5056;-1.73888;0;Bottom;Copper Fill30
+104;;;6.53726;-5.57304;0;Bottom;IMG3
+105;;;42.2656;-1.73888;0;Bottom;Copper Fill26
+106;;;6.7056;-51.5102;0;Bottom;Copper Fill41
+107;;;49.8602;-51.7769;0;Bottom;Copper Fill12
+108;;PG203J [THT];64.866;-32.5904;-180;Bottom;TRS1
+109;;;7.5565;-52.2849;0;Bottom;Copper Fill39
+110;;;38.2778;-17.9314;0;Bottom;Copper Fill38
+111;;;44.7421;-35.3685;0;Bottom;Copper Fill36
+112;;;64.2874;-5.57428;0;Bottom;Copper Fill80
+113;;;14.8844;-51.5102;0;Bottom;Copper Fill49
+114;;;58.7611;-16.0804;0;Bottom;TMP00x
+115;;;40.767;-47.6367;0;Bottom;Copper Fill75
+116;;;21.0693;-41.7439;0;Bottom;Copper Fill43
+117;;;32.1056;-1.73888;0;Bottom;Copper Fill22
+118;;;62.5602;-51.7769;0;Bottom;Copper Fill17
+119;;;52.4002;-51.7769;0;Bottom;Copper Fill70
+120;;;44.7421;-37.0703;0;Bottom;Copper Fill35
+121;;;33.0962;-51.7769;0;Bottom;Copper Fill7
+122;;;40.9321;-1.86588;0;Bottom;Copper Fill102
+123;;;46.4566;-48.5765;0;Bottom;Copper Fill19
+124;;;43.4721;-1.86588;0;Bottom;Copper Fill56
+125;;;33.0962;-51.7769;0;Bottom;Copper Fill64
+126;;;22.08;-24.0483;90;Bottom;MicroSD
+127;;;35.6362;-51.7769;0;Bottom;Copper Fill65
+128;;[THT];10.8511;-49.2086;0;Bottom;RESET
+129;;;30.5562;-51.7769;0;Bottom;Copper Fill6
