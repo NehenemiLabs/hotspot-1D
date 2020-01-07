@@ -29,6 +29,8 @@ void setup()
   osName = System.getProperty("os.name");
   
   println("Running on " + osName);
+  PImage icon = loadImage("data/icon.png");
+  surface.setIcon(icon);
   
   p5 = new ControlP5(this);
   List listPorts = Arrays.asList(Serial.list());

@@ -25,7 +25,7 @@
 
 
 //Defines
-#define SECONDS 1
+#define SECONDS 0.5
 
 //Objects
 Adafruit_TMP006 tmp006;
