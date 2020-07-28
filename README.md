@@ -1,8 +1,6 @@
 Hotspot 1D
 
-An simple arduino shield for measuring skin ingflamation
-
-
+An Arduino UNO shield for measuring skin inflamation using surface temperature
 
 Cristian Delgado, Dr. Miguel Ángel Condes INB UNAM
 
